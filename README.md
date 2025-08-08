@@ -16,7 +16,7 @@
 
 <h2>📺 Portfolio background</h2>
 
-- [Cybersecurity Starting From Zero Trust method](https://www.youtube.com/watch?
+- [Cybersecurity Starting From Zero Trust method]([https://www.youtube.com/watch](https://drive.google.com/drive/folders/1jx1ITJxOCSJVUMF-QdBOFByTAEzO53wh)?
 - Penetration Testing
 - Ethical Hacking (hackerthon)
 
