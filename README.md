@@ -27,7 +27,7 @@ Full profile and case studies: **[zw3liy.github.io/Portfolio](https://zw3liy.git
 - Linux, Docker, CI/CD and GitHub Actions
 - VoIP support — scope confirmed per engagement
 - Technical documentation and service reporting
-- Business continuity and IT safety assessments for small businesses
+- Business continuity and IT safety assessment services for small businesses
 - Web and application development — Python, Java, PostgreSQL, MariaDB, HTML/CSS, Angular, Django
 
 ## Projects
