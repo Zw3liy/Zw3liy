@@ -1,48 +1,44 @@
-<h1>Hi, I'm Zweli! <br/><a href="https://github.com/joshmadakor1">Programmer</a> & <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a><a href="https://www.youtube.com/c/joshmadakor"></a></h1>
+# Hi, I'm Zwelithini Tshabalala
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+IT systems, network and security professional with 5+ years of experience across field engineering, network operations, privileged access management, technical support and application delivery — currently a **Field Network Engineer at In2IT Technologies**.
 
-  - [Active directory Home Lab](https://github.com/Zw3liy/Active-directory-Home-Lab/blob/main/README.md)
+Full profile, experience timeline and case studies: **[zw3liy.github.io/Portfolio](https://zw3liy.github.io/Portfolio/)**
 
+## What I do
 
-<h2>📄 Certification </h2>
- 
-  - Java_Lunch certification
-  - Information Technology certification
-  - Intern of the year award 2020
-  - Diploma systems development
-  - Udemy security+
+- IT support and field engineering — maintaining networks and computing environments, diagnosing and resolving hardware/software/network incidents
+- Networking — routing, switching, wireless systems, performance monitoring and fault isolation
+- Systems administration — Windows, Linux, macOS, backups and disaster-recovery operations
+- Microsoft 365 support
+- Docker, CI/CD and GitHub Actions
+- VoIP support (scope confirmed per engagement)
+- Technical documentation and service reporting
+- Business continuity and IT safety assessments for small businesses
+- Web and application development — Python, Java, PostgreSQL, MariaDB, HTML/CSS, Angular, Django
 
+## Education & certifications
 
-<h2>📺 Portfolio background</h2>
+- National Diploma, IT Systems Development — Richfield Graduate Institute of Technology (2014)
+- Higher Certificate, Information Technology — Richfield Graduate Institute of Technology (2012)
+- BeyondTrust Password Safe
+- Privileged Access Management Specialist
+- Java Lounge Certificate of Completion
+- Cell C Fault Management Intern of the Year, 2019
 
-- [Cybersecurity Starting From Zero Trust method]([https://www.youtube.com/watch](https://drive.google.com/drive/folders/1jx1ITJxOCSJVUMF-QdBOFByTAEzO53wh)?
-- Penetration Testing
-- Ethical Hacking (hackerthon)
+## Projects
 
-<h2> 🤳 Connect with me:</h2>
+Independent/personal projects, built outside of employment — not commissioned by, or delivered for, any client unless noted:
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+- **[Enterprise Service Desk](https://github.com/Zw3liy/Enterprice-Service-Desk)** — a ticketing and support platform (Python)
+- **[Mukango Wa Africa](https://github.com/Zw3liy/Mukango_wa_Africa)** — a commerce storefront (TypeScript)
+- **[SA Distribution](https://github.com/Zw3liy/SA-Distribution)** — a B2B/B2C commerce platform (PHP)
+- **[Hopeful Seasons](https://github.com/Zw3liy/hopeful-seasons-wellness.netlify.app)** — a wellness-practice website
+- **[Active Directory Home Lab](https://github.com/Zw3liy/Active-directory-Home-Lab)** — a Windows domain-services learning environment
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+*(One further project, Flexispace, exists as a private repository and isn't linked here until it's public.)*
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Get in touch
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Portfolio: [zw3liy.github.io/Portfolio](https://zw3liy.github.io/Portfolio/)
+- LinkedIn: [linkedin.com/in/zwelithini-tshabalala](https://linkedin.com/in/zwelithini-tshabalala)
+- Email: [goodwill00765@gmail.com](mailto:goodwill00765@gmail.com)
